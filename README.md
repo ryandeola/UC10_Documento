@@ -61,6 +61,7 @@ Use tres crases (```) para criar blocos de codigo
 Tabelas:
 
 Crie tabelas com barras verticais (|) para separar coluna
+
 Use hifens e colons para definir a formatação de tabela
 
 | **Cabeçalho 1** | **Cabeçalho 2** |
@@ -71,6 +72,7 @@ Use hifens e colons para definir a formatação de tabela
 Lista de tarefas:
 
 Use - [] para criar uma lista de tarefas nao marcadas
+
 Use - [x] para criar uma lista de tarefas marcada
 
 Exemplo:
