@@ -67,3 +67,4 @@ Use hifens e colons para definir a formatação de tabela
 |--------------- | --------------- |
 | Dado 1          | Dado 2          |
 | Dado 3          | Dado 4          |
+
