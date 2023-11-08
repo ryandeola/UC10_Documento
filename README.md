@@ -34,4 +34,12 @@ Imagem:
 
 Enfase:
 
-Negrito -->  *Texto em negrito* ou _Texto em negrito_
+Itálico -->  *Texto em itálico* ou _Texto em itálico_
+
+Negrito --> **texto em negrito** ou __texto em negrito__
+
+Tachado --> ~~Texto em tachado~~
+
+Subscrito --> Aqui vai o texto em <sub> subscrito </sub>
+
+Sobrescrito --> Aqui vai o texto em <sup> sobrescrito </sup>
