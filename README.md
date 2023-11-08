@@ -52,14 +52,14 @@ Linhas horizontais --> (***)
 ***
 Codigo:
 
-Use crases (`) para inserir codigo inline.
-Use tres crases (```) para criar blocos de codigo
+Use crases (`) para inserir codigo `inline`
 
-Use crases (\`) para inserir codigo `ìnline`
+Use tres crases (```) para criar blocos de codigo
 
 `print("mostra uma mensagem")`
 ***
 Idade = 18
-print("A idade é {Idade}")
+
+print(f"A idade é {Idade}")
 ***
 
