@@ -58,8 +58,12 @@ Use tres crases (```) para criar blocos de codigo
 
 `print("mostra uma mensagem")`
 ***
-Idade = 18
+Tabelas:
 
-print(f"A idade é {Idade}")
-***
+Crie tabelas com barras verticais (|) para separar coluna
+Use hifens e colons para definir a formatação de tabela
 
+| **Cabeçalho 1** | **Cabeçalho 2** |
+|--------------- | --------------- |
+| Dado 1          | Dado 2          |
+| Dado 3          | Dado 4          |
