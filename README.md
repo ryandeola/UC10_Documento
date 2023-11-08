@@ -31,3 +31,7 @@ Imagem:
 
 
 ![Imagem](https://github.com/ryandeola/UC10_Documento/blob/main/download.png)
+
+Enfase:
+
+Negrito -->  *Texto em negrito* ou _Texto em negrito_
