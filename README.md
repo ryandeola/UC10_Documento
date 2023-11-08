@@ -13,7 +13,7 @@ Lista nao ordenada para utilizar (*)
 * Item 1
 * item 2
 * item 3
-* 
+
   Lista ordenada
 1. item 1
 2. item 2
@@ -43,3 +43,6 @@ Tachado --> ~~Texto em tachado~~
 Subscrito --> Aqui vai o texto em <sub> subscrito </sub>
 
 Sobrescrito --> Aqui vai o texto em <sup> sobrescrito </sup>
+
+Use > para criar uma citação em bloco
+> Isso é uma citação em bloco
