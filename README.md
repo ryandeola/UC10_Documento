@@ -25,5 +25,5 @@ Topico principal
 * item 4.2
 
 Links:
-[Texto do link] (www.osgurisaoruim.com)
+[Texto do link](www.osgurisaoruim.com)
 
