@@ -67,4 +67,13 @@ Use hifens e colons para definir a formatação de tabela
 |--------------- | --------------- |
 | Dado 1          | Dado 2          |
 | Dado 3          | Dado 4          |
+***
+Lista de tarefas:
 
+Use - [] para criar uma lista de tarefas nao marcadas
+Use - [x] para criar uma lista de tarefas marcada
+
+Exemplo:
+- [x] Tarefa concluida
+- [ ] Tarefa pendente
+***
