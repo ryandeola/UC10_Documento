@@ -49,3 +49,17 @@ Use > para criar uma citação em bloco
 > Isso é uma citação em bloco
 ***
 Linhas horizontais --> (***) 
+***
+Codigo:
+
+Use crases (`) para inserir codigo inline.
+Use tres crases (```) para criar blocos de codigo
+
+Use crases (\`) para inserir codigo `ìnline`
+
+`print("mostra uma mensagem")`
+***
+Idade = 18
+print("A idade é {Idade}")
+***
+
