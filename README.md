@@ -92,3 +92,17 @@ A aula é com o Ricardo[^2]
 [^1]: Rodapé: Conteudo inferior do documento
 [^2]: Ricardo: Professor da turma de Git
 ***
+Alertas
+> **Note**
+> esta é uma nota
+
+> [!NOTE]
+> destaca informações que os usuarios devem levar em consideração, mesmo durante a leitura superficial
+
+> [!IMPORTANT]
+>informações cruciais necessarias para o sucesso dos usuarios
+
+> [!WARNING]
+> Conteudo critico que exige atenção imediata do usuario devido a riscos potenciais
+***
+
