@@ -52,7 +52,7 @@ Linhas horizontais --> (***)
 ***
 Codigo:
 
-Use crases (`) para inserir codigo `inline`
+Use crases (\`) para inserir codigo `inline`
 
 Use tres crases (```) para criar blocos de codigo
 
